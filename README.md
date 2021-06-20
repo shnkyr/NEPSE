@@ -6,4 +6,4 @@ Can be used for Data Analysis and Prediction in python, SQL DB, EXCT, LLR, FTSF,
 
 
 
-Source: nepsestreet.com
+Source: nepse
